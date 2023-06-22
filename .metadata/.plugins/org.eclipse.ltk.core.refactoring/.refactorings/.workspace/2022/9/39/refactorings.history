@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;bootsaml&apos;" deleteContents="true" description="Delete resource &apos;bootsaml&apos;" element1="/bootsaml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1663915168137"/>
+</session>

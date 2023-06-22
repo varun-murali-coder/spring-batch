@@ -1,0 +1,14 @@
+package com.echo;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class UDPTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

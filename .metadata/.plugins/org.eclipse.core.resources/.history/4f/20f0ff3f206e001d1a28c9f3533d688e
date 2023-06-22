@@ -1,0 +1,17 @@
+package com.sig.test;
+
+import org.hyperic.sigar.Sigar;
+import org.hyperic.sigar.SigarException;
+
+public class SigarTest {
+
+	public static void main(String[] args) throws SigarException {
+		// TODO Auto-generated method stub
+		System.loadLibrary("sig-amd64-winnt");
+		Sigar sig=new Sigar();
+		System.out.println("Hostname:-"+sig.getFQDN());
+		System.out.println("Hello World");
+
+	}
+
+}
